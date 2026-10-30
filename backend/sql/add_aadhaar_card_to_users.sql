@@ -1,0 +1,2 @@
+ALTER TABLE users
+ADD COLUMN aadhaar_card LONGTEXT NULL;
